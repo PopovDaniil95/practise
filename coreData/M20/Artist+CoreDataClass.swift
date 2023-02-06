@@ -27,6 +27,4 @@ public class Artist: NSManagedObject, NSCoding {
             country = coder.decodeObject(forKey: "country") as? String ?? ""
 
         }
-    
-    
 }

@@ -15,7 +15,6 @@
 		8C435AFB297D12B200AAF270 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C435AF9297D12B200AAF270 /* LaunchScreen.storyboard */; };
 		8C435B03297D174700AAF270 /* ListOfArtist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C435B02297D174700AAF270 /* ListOfArtist.swift */; };
 		8C435B13297D31A900AAF270 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8C435B11297D31A900AAF270 /* Model.xcdatamodeld */; };
-		8C99AB2D2991054800937396 /* FetchedResaltDelegat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C99AB2C2991054800937396 /* FetchedResaltDelegat.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +30,6 @@
 		8C435B12297D31A900AAF270 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
 		8C435B14297D325B00AAF270 /* Artist+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Artist+CoreDataClass.swift"; sourceTree = SOURCE_ROOT; };
 		8C435B15297D325B00AAF270 /* Artist+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Artist+CoreDataProperties.swift"; sourceTree = SOURCE_ROOT; };
-		8C99AB2C2991054800937396 /* FetchedResaltDelegat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchedResaltDelegat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,7 +67,6 @@
 				8C435AED297D12AC00AAF270 /* SceneDelegate.swift */,
 				8C435B02297D174700AAF270 /* ListOfArtist.swift */,
 				8C435AEF297D12AC00AAF270 /* AddAndEdit.swift */,
-				8C99AB2C2991054800937396 /* FetchedResaltDelegat.swift */,
 				8C435AF1297D12AC00AAF270 /* Main.storyboard */,
 				8C435AF7297D12B200AAF270 /* Assets.xcassets */,
 				8C435AF9297D12B200AAF270 /* LaunchScreen.storyboard */,
@@ -162,7 +159,6 @@
 				8C435AF0297D12AC00AAF270 /* AddAndEdit.swift in Sources */,
 				8C435AEC297D12AC00AAF270 /* AppDelegate.swift in Sources */,
 				8C435B13297D31A900AAF270 /* Model.xcdatamodeld in Sources */,
-				8C99AB2D2991054800937396 /* FetchedResaltDelegat.swift in Sources */,
 				8C435AEE297D12AC00AAF270 /* SceneDelegate.swift in Sources */,
 				8C435B03297D174700AAF270 /* ListOfArtist.swift in Sources */,
 			);

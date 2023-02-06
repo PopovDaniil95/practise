@@ -18,7 +18,6 @@ class AddAndEdit: UIViewController {
     @IBOutlet weak var labelCountry: UILabel!
     @IBOutlet weak var fieldCountry: UITextField!
     
-    
     var artist: Artist?
     
     override func viewDidLoad() {
@@ -39,10 +38,6 @@ class AddAndEdit: UIViewController {
         
         try? artist?.managedObjectContext?.save()
         navigationController?.popViewController(animated: true)
-        
     }
-    
-
-    
 }
 
