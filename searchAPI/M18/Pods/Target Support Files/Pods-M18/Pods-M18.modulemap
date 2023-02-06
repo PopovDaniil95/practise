@@ -1,0 +1,6 @@
+framework module Pods_M18 {
+  umbrella header "Pods-M18-umbrella.h"
+
+  export *
+  module * { export * }
+}
